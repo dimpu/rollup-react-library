@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "jsx": "react",
+    "rootDir": "./",
+    "lib": [],
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "sourceRoot": "./src",
+    "inlineSourceMap": true,
+    "esModuleInterop":true,
+    "noFallthroughCasesInSwitch": true,
+    "types": []
+  }
+}
